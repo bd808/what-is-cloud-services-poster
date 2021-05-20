@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,14 +13,14 @@
    viewBox="0 0 2104.7244 2979.9212"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
    sodipodi:docname="What is Cloud Services (master).svg">
   <defs
      id="defs4">
     <color-profile
-       name="Generic-CMYK-Profile"
-       xlink:href="/System/Library/ColorSync/Profiles/Generic CMYK Profile.icc"
-       id="color-profile4686" />
+       xlink:href="file:///System/Library/ColorSync/Profiles/Generic%20CMYK%20Profile.icc"
+       id="color-profile10"
+       name="Generic-CMYK-Profile" />
     <clipPath
        id="clipPath3442"
        clipPathUnits="userSpaceOnUse">
@@ -42,23 +40,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26678557"
-     inkscape:cx="1052.3622"
-     inkscape:cy="1489.9607"
+     inkscape:zoom="1.0484863"
+     inkscape:cx="1442.0545"
+     inkscape:cy="1614.9714"
      inkscape:document-units="in"
      inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1620"
      inkscape:window-height="997"
-     inkscape:window-x="-1"
-     inkscape:window-y="0"
+     inkscape:window-x="20"
+     inkscape:window-y="48"
      inkscape:window-maximized="0"
      units="in"
      showguides="true"
      inkscape:guide-bbox="true"
      objecttolerance="10"
      gridtolerance="10"
-     guidetolerance="10">
+     guidetolerance="10"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4684"
@@ -86,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
@@ -221,15 +220,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="476.61267"
        y="2954.301"
-       id="text6437"
-       sodipodi:linespacing="125%"><tspan
+       id="text6437"><tspan
          sodipodi:role="line"
          x="476.61267"
          y="2954.301"
-         id="tspan6566">Copyright © 2017, Bryan Davis and Wikimedia Foundation. Licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License</tspan></text>
+         id="tspan6566"
+         style="font-size:15px;line-height:1.25">Copyright © 2017, Bryan Davis and Wikimedia Foundation. Licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License</tspan></text>
     <g
        id="layer1-7"
        inkscape:label="Layer 1"
@@ -290,15 +289,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="89.157715"
        y="2886.801"
-       id="text6673"
-       sodipodi:linespacing="125%"><tspan
+       id="text6673"><tspan
          sodipodi:role="line"
          x="89.157715"
          y="2886.801"
-         id="tspan7851">Credits: &quot;Wikimedia labs logo.svg&quot; by Brandon Harris and User:Isarra. CC BY-SA 3.0 • &quot;Wikimedia Foundation logo - horizontal.svg&quot; by Wikimedia Foundation. CC BY-SA 3.0 • &quot;CC BY-SA&quot; by Creative Commons. CC BY 4.0</tspan></text>
+         id="tspan7851"
+         style="font-size:15px;line-height:1.25">Credits: &quot;Wikimedia labs logo.svg&quot; by Brandon Harris and User:Isarra. CC BY-SA 3.0 • &quot;Wikimedia Foundation logo - horizontal.svg&quot; by Wikimedia Foundation. CC BY-SA 3.0 • &quot;CC BY-SA&quot; by Creative Commons. CC BY 4.0</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -308,7 +307,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5991"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;line-height:0.01%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0,-1.2207031e-4)"><flowRegion
          id="flowRegion5993"><rect
            id="rect5995"
@@ -316,15 +315,16 @@
            height="180"
            x="90"
            y="729.92139" /></flowRegion><flowPara
-         id="flowPara5997" /></flowRoot>    <g
+         id="flowPara5997"
+         style="font-size:90px;line-height:1.25"> </flowPara></flowRoot>
+    <g
        id="g17374"
        transform="translate(3.7483287,172.42312)">
       <text
-         sodipodi:linespacing="125%"
          id="text16376"
          y="1892.8566"
          x="111.8336"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="1892.8566"
@@ -332,11 +332,10 @@
            id="tspan16378"
            sodipodi:role="line">Cloud VPS</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text16452"
          y="1955.9669"
          x="107.43542"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="1955.9669"
@@ -351,11 +350,10 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="113.17589"
        y="2357.4543"
-       id="text16380"
-       sodipodi:linespacing="125%"><tspan
+       id="text16380"><tspan
          sodipodi:role="line"
          id="tspan16382"
          x="113.17589"
@@ -363,11 +361,10 @@
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start">Toolforge</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="111.93077"
        y="2419.8616"
-       id="text16456"
-       sodipodi:linespacing="125%"><tspan
+       id="text16456"><tspan
          sodipodi:role="line"
          id="tspan16458"
          x="111.93077"
@@ -397,11 +394,10 @@
        id="g17367"
        transform="translate(690.28153,-121.16465)">
       <text
-         sodipodi:linespacing="125%"
          id="text16384"
          y="2181.3027"
          x="106.39538"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="2181.3027"
@@ -409,160 +405,170 @@
            id="tspan16386"
            sodipodi:role="line">Quarry</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text16462"
          y="2241.6008"
          x="108.2362"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2241.6008"
            x="108.2362"
            id="tspan16464"
-           sodipodi:role="line">Web-based SQL</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">Web-based SQL</tspan><tspan
            y="2291.6008"
            x="108.2362"
            sodipodi:role="line"
-           id="tspan4358">query interface</tspan></text>
+           id="tspan4358"
+           style="font-size:40px;line-height:1.25">query interface</tspan></text>
     </g>
     <g
        id="g17334"
        transform="translate(-350.64145,170.30696)">
       <text
-         sodipodi:linespacing="125%"
          id="text16388"
          y="2181.3027"
          x="1146.4468"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2181.3027"
            x="1146.4468"
            id="tspan16390"
-           sodipodi:role="line">PAWS</tspan></text>
+           sodipodi:role="line"
+           style="font-size:90px;line-height:1.25">PAWS</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text16466"
          y="2241.6008"
          x="1152.5967"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2241.6008"
            x="1152.5967"
            id="tspan16468"
-           sodipodi:role="line">JupyterHub service</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">JupyterHub service</tspan><tspan
            id="tspan16528"
            y="2291.6008"
            x="1152.5967"
-           sodipodi:role="line">with custom integrations</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">with custom integrations</tspan><tspan
            id="tspan17332"
            y="2341.6008"
            x="1152.5967"
-           sodipodi:role="line">for accessing APIs</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">for accessing APIs</tspan><tspan
            id="tspan16532"
            y="2391.6008"
            x="1152.5967"
-           sodipodi:role="line">and wiki replicas</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">and wiki replicas</tspan></text>
     </g>
     <g
        id="g17343"
        transform="translate(1376.8147,-437.50254)">
       <text
-         sodipodi:linespacing="125%"
          id="text16392"
          y="2502.7822"
          x="110.53111"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2502.7822"
            x="110.53111"
            id="tspan16394"
-           sodipodi:role="line">Wiki replicas</tspan></text>
+           sodipodi:role="line"
+           style="font-size:90px;line-height:1.25">Wiki replicas</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text16472"
          y="2564.3547"
          x="108.2362"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2564.3547"
            x="108.2362"
            id="tspan16474"
-           sodipodi:role="line">Real-time replicas of</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">Real-time replicas of</tspan><tspan
            id="tspan16534"
            y="2614.3547"
            x="108.2362"
-           sodipodi:role="line">Wikimedia production</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">Wikimedia production</tspan><tspan
            id="tspan17220"
            y="2664.3547"
            x="108.2362"
-           sodipodi:role="line">databases</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">databases</tspan></text>
     </g>
     <g
        id="g17351"
        transform="translate(661.88674,-146.03093)">
       <text
-         sodipodi:linespacing="125%"
          id="text16396"
          y="2502.7822"
          x="824.35559"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2502.7822"
            x="824.35559"
            id="tspan16398"
-           sodipodi:role="line">ToolsDB</tspan></text>
+           sodipodi:role="line"
+           style="font-size:90px;line-height:1.25">ToolsDB</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text16476"
          y="2552.7092"
          x="822.56116"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2552.7092"
            x="822.56116"
            id="tspan16478"
-           sodipodi:role="line">Shared access database</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">Shared access database</tspan><tspan
            id="tspan16480"
            y="2602.7092"
            x="822.56116"
-           sodipodi:role="line">hosting for Toolforge</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">hosting for Toolforge</tspan><tspan
            id="tspan17240"
            y="2652.7092"
            x="822.56116"
-           sodipodi:role="line">hosted projects</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">hosted projects</tspan></text>
     </g>
     <g
        id="g17359"
        transform="translate(-41.610546,145.44078)">
       <text
-         sodipodi:linespacing="125%"
          id="text16400"
          y="2496.4102"
          x="1534.5375"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;line-height:0%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2496.4102"
            x="1534.5375"
            id="tspan16402"
-           sodipodi:role="line">Dumps</tspan></text>
+           sodipodi:role="line"
+           style="font-size:90px;line-height:1.25">Dumps</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text16484"
          y="2546.3372"
          x="1538.5389"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="2546.3372"
            x="1538.5389"
            id="tspan16486"
-           sodipodi:role="line">Wikimedia database</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">Wikimedia database</tspan><tspan
            id="tspan17246"
            y="2596.3372"
            x="1538.5389"
-           sodipodi:role="line">XML dump files,</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">XML dump files,</tspan><tspan
            id="tspan16488"
            y="2646.3372"
            x="1538.5389"
-           sodipodi:role="line">Curated datasets</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">Curated datasets</tspan></text>
     </g>
     <rect
        style="opacity:1;fill:#990000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.29859352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -573,11 +579,10 @@
        y="2659.7197" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="100.41726"
        y="2720.9727"
-       id="text16696"
-       sodipodi:linespacing="125%"><tspan
+       id="text16696"><tspan
          sodipodi:role="line"
          x="100.41726"
          y="2720.9727"
@@ -590,11 +595,10 @@
          id="tspan16986">should be as easy as editing an article.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="87.645378"
        y="385.80011"
-       id="text16746"
-       sodipodi:linespacing="125%"><tspan
+       id="text16746"><tspan
          sodipodi:role="line"
          id="tspan16748"
          x="87.645378"
@@ -614,7 +618,7 @@
          x="87.645378"
          y="610.80011"
          id="tspan16754"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start"> </tspan></text>
     <g
        id="g4450">
       <rect
@@ -625,96 +629,47 @@
          id="rect4427"
          style="opacity:1;fill:#006699;fill-opacity:1;fill-rule:nonzero;stroke:#006699;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text16193"
          y="739.7196"
          x="130.0105"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:112.5px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:112.5px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
            y="739.7196"
            x="130.0105"
            id="tspan16195"
-           sodipodi:role="line">24.67%</tspan></text>
+           sodipodi:role="line">30.4%</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text16197"
          y="768.87506"
          x="145.02881"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="768.87506"
            x="145.02881"
            id="tspan16199"
-           sodipodi:role="line">Percentage of total edits</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">Percentage of total edits</tspan><tspan
            id="tspan16201"
            y="797.00006"
            x="145.02881"
-           sodipodi:role="line">made to Wikimedia wikis by</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">made to Wikimedia wikis by</tspan><tspan
            id="tspan16203"
            y="825.12506"
            x="145.02881"
-           sodipodi:role="line">Wikimedia Cloud Services</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">Wikimedia Cloud Services</tspan><tspan
            id="tspan16207"
            y="853.25006"
            x="145.02881"
-           sodipodi:role="line">hosted bots and tools.</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">hosted bots and tools.</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            id="tspan16205"
-           y="873.89941"
+           y="874.53259"
            x="145.02881"
-           sodipodi:role="line">September-November 2016</tspan></text>
-    </g>
-    <g
-       id="g4439"
-       transform="translate(0,-856.94012)">
-      <rect
-         y="1508.3928"
-         x="1564.7819"
-         height="75.419998"
-         width="411.03"
-         id="rect17395"
-         style="opacity:1;fill:#006699;fill-opacity:1;fill-rule:nonzero;stroke:#006699;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1560.7876"
-         y="1582.6213"
-         id="text16239"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan16241"
-           x="1560.7876"
-           y="1582.6213"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:90px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">3.8 Billion</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="1592.1481"
-         y="1611.7767"
-         id="text16243"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan16245"
-           x="1592.1481"
-           y="1611.7767">Number of API requests</tspan><tspan
-           sodipodi:role="line"
-           x="1592.1481"
-           y="1639.9017"
-           id="tspan16247">made to Wikimedia wikis by</tspan><tspan
-           sodipodi:role="line"
-           x="1592.1481"
-           y="1668.0267"
-           id="tspan16249">Wikimedia Cloud Services</tspan><tspan
-           sodipodi:role="line"
-           x="1592.1481"
-           y="1696.1517"
-           id="tspan16251">hosted bots and tools.</tspan><tspan
-           sodipodi:role="line"
-           x="1592.1481"
-           y="1716.8011"
-           id="tspan16253"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">September-November 2016</tspan></text>
+           sodipodi:role="line">May of 2020</tspan></text>
     </g>
     <rect
        style="opacity:1;fill:#339966;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -725,11 +680,10 @@
        y="1795.8744" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="358.90515"
        y="1889.8954"
-       id="text17756"
-       sodipodi:linespacing="125%"><tspan
+       id="text17756"><tspan
          sodipodi:role="line"
          id="tspan17758"
          x="358.90515"
@@ -745,39 +699,37 @@
          id="rect4437"
          style="opacity:1;fill:#006699;fill-opacity:1;fill-rule:nonzero;stroke:#006699;stroke-width:8.16413879;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text4369"
          y="1641.8655"
          x="132.53735"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan4373"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
            y="1641.8655"
            x="132.53735"
-           sodipodi:role="line">213 Projects</tspan><tspan
+           sodipodi:role="line">161 Projects</tspan><tspan
            id="tspan4397"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
            y="1716.8655"
            x="132.53735"
-           sodipodi:role="line">715 Instances</tspan><tspan
+           sodipodi:role="line">800 Instances</tspan><tspan
            id="tspan4379"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
            y="1791.8655"
            x="132.53735"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line"> </tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4522"
          y="1748.9854"
          x="132.32762"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="1748.9854"
            x="132.32762"
            id="tspan4524"
-           sodipodi:role="line">2017-07-17</tspan></text>
+           sodipodi:role="line">2021-05-20</tspan></text>
     </g>
     <g
        id="g4549"
@@ -791,38 +743,90 @@
          y="1588.5038" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1475.7178"
          y="1638.2155"
-         id="text4475"
-         sodipodi:linespacing="125%"><tspan
+         id="text4475"><tspan
            sodipodi:role="line"
            x="1475.7178"
            y="1638.2155"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-           id="tspan4481">1,413 Tools</tspan><tspan
+           id="tspan4481">2,934 Tools</tspan><tspan
            sodipodi:role="line"
            x="1475.7178"
            y="1713.2155"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-           id="tspan4485">1,759 Maintainers</tspan><tspan
+           id="tspan4485">2,146 Maintainers</tspan><tspan
            sodipodi:role="line"
            x="1475.7178"
            y="1788.2155"
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-           id="tspan4487" /></text>
+           id="tspan4487"> </tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1475.2189"
          y="1745.5406"
-         id="text4528"
-         sodipodi:linespacing="125%"><tspan
+         id="text4528"><tspan
            sodipodi:role="line"
            id="tspan4530"
            x="1475.2189"
            y="1745.5406"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">2017-07-17</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">2021-05-20</tspan></text>
+    </g>
+    <g
+       id="g4450-1"
+       style="display:inline;opacity:0.72"
+       transform="translate(1467.2824,3.9943721)">
+      <rect
+         y="651.4527"
+         x="133.63762"
+         height="91.169998"
+         width="379.07999"
+         id="rect4427-1"
+         style="opacity:1;fill:#006699;fill-opacity:1;fill-rule:nonzero;stroke:#006699;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text16193-5"
+         y="739.7196"
+         x="130.0105"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:112.5px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           y="739.7196"
+           x="130.0105"
+           id="tspan16195-7"
+           sodipodi:role="line">51.4%</tspan></text>
+      <text
+         id="text16197-5"
+         y="768.87506"
+         x="145.02881"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="768.87506"
+           x="145.02881"
+           id="tspan16199-6"
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">Percentage of total edits</tspan><tspan
+           id="tspan16201-9"
+           y="797.00006"
+           x="145.02881"
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">made to Wikidata by</tspan><tspan
+           id="tspan16203-2"
+           y="825.12506"
+           x="145.02881"
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">Wikimedia Cloud Services</tspan><tspan
+           id="tspan16207-4"
+           y="853.25006"
+           x="145.02881"
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">hosted bots and tools.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan16205-3"
+           y="874.53259"
+           x="145.02881"
+           sodipodi:role="line">May of 2020</tspan></text>
     </g>
   </g>
   <g
@@ -1183,7 +1187,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4700"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;font-size:60px;line-height:125%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:condensed;line-height:0.01%;font-family:Futura;-inkscape-font-specification:'Futura, Ultra-Bold Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0,-1927.5591)"><flowRegion
          id="flowRegion4702"><rect
            id="rect4704"
@@ -1191,13 +1195,14 @@
            height="180"
            x="990"
            y="639.92114" /></flowRegion><flowPara
-         id="flowPara4706" /></flowRoot>    <text
+         id="flowPara4706"
+         style="font-size:60px;line-height:1.25"> </flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="109.4276"
        y="-1695.011"
-       id="text16111"
-       sodipodi:linespacing="125%"><tspan
+       id="text16111"><tspan
          sodipodi:role="line"
          id="tspan16113"
          x="109.4276"
